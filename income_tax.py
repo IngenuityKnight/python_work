@@ -59,3 +59,5 @@ def tax():
         elif (status == 4) and (income >= 372951):
             taxdue = income * (35 / 100)
             print(f"Your Tax rate is 35% and Your Tax Amount is ${taxdue}")
+
+tax()

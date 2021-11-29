@@ -60,4 +60,4 @@ def tax():
             taxdue = income * (35 / 100)
             print(f"Your Tax rate is 35% and Your Tax Amount is ${taxdue}")
 
-tax()
+tax():

@@ -34,8 +34,12 @@ a message to indicate whether the answer is true or
 false.
 
 """
-
 def math_tool():
+
+Print("what is %y + 9%")
+
+
+##Taxes
 
 status = 0
 income = 1000

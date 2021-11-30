@@ -18,3 +18,5 @@ characters ch1 and ch2 with ch1 < ch2 can be generated as follows:
 chr(random.randint(ord(ch1), ord(ch2)))
 
 """
+def rand_lower
+    (random.randint(ord('a'), ord('z')))
